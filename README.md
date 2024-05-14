@@ -8,12 +8,14 @@ Minhas Habilidades:
 🤔 Eterna Aprendiz: Sempre em busca de novas técnicas e ferramentas para aprimorar minhas habilidades e me manter atualizado no mundo da análise de dados.
 
 🌱 Meus Projetos:
+
 OilyGiant (05/2024): Criei um modelo de previsão para otimizar a localização de novos poços de petróleo, utilizando a técnica de bootstrap.
 Beta Bank (04/2024): Implementei modelos de machine learning para reduzir a taxa de saída de clientes.
 Megaline (04/2024): Criei modelos de machine learning para analisar o comportamento dos clientes e recomendar planos personalizados.
 Zuber (03/2024): Realizei análises de dados para identificar as preferências dos passageiros.
 
 ⚡Ferramentas Favoritas:
+
 Python
 Jupyter Notebook
 Pandas
@@ -21,11 +23,13 @@ Matplotlib
 Seaborn
 
 😀O que me inspira:
+
 Aprender coisas novas todos os dias.
 Ajudar as pessoas a tomar decisões melhores com base em dados.
 Fazer a diferença no mundo através da análise de dados.
 
 Conecte-se comigo!
+
 GitHub: https://github.com/nadjaheid
 LinkedIn: www.linkedin.com/in/nadja-heiderich
 
