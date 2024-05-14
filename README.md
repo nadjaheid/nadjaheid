@@ -26,7 +26,7 @@ Ajudar as pessoas a tomar decisões melhores com base em dados.
 Fazer a diferença no mundo através da análise de dados.
 
 Conecte-se comigo!
-GitHub: [Seu Nome https://es.wiktionary.org/wiki/removido](https://github.com/nadjaheid)
+GitHub: https://github.com/nadjaheid
 LinkedIn: www.linkedin.com/in/nadja-heiderich
 
 Juntos, podemos desvendar os segredos dos dados e construir um futuro melhor!🌍
