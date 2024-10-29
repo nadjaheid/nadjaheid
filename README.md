@@ -30,7 +30,8 @@ Fazer a diferença no mundo através da análise de dados.
 
 Conecte-se comigo!
 
-GitHub: https://github.com/nadjaheid
-LinkedIn: www.linkedin.com/in/nadja-heiderich
+GitHub: [![Nadja Heiderich](https://img.shields.io/badge/GitHub-Seu%20Usuário-blue?style=flat-square)](https://github.com/nadjaheid)
+LinkedIn: [![Nadja Heiderich](https://img.shields.io/badge/LinkedIn-Seu%20Perfil-blue?style=flat-square)](www.linkedin.com/in/nadja-heiderich)
+
 
 Juntos, podemos desvendar os segredos dos dados e construir um futuro melhor!🌍
