@@ -42,6 +42,7 @@ Conecte-se comigo!
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nadja_Heiderich-blue?style=flat-square)](https://github.com/nadjaheid)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadja_Heiderich-blue)](https://www.linkedin.com/in/nadja-heiderich)
 
 
