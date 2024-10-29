@@ -3,8 +3,11 @@ Olá! 👋 Sou ✨Nadja Heiderich✨, uma Cientista de Dados em início de carre
 Minhas Habilidades:
 
 ⚡ Ninja do Python: Domínio da linguagem de programação Python para análise de dados e desenvolvimento de ferramentas.
+
 🔭 Explorador de Dados: Experiência em extrair insights valiosos de dados brutos, utilizando técnicas como limpeza, organização e visualização.
+
 😄 Contadora de Histórias: Capacidade de transformar dados em histórias inspiradoras e fáceis de entender, comunicando resultados de forma clara e concisa.
+
 🤔 Eterna Aprendiz: Sempre em busca de novas técnicas e ferramentas para aprimorar minhas habilidades e me manter atualizado no mundo da análise de dados.
 
 🌱 Meus Projetos:
@@ -38,7 +41,9 @@ Zuber (03/2024): Realizei análises de dados para identificar as preferências d
 😀O que me inspira:
 
 Aprender coisas novas todos os dias.
+
 Ajudar as pessoas a tomar decisões melhores com base em dados.
+
 Fazer a diferença no mundo através da análise de dados.
 
 Conecte-se comigo!
