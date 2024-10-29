@@ -1,5 +1,6 @@
 Olá! 👋 Sou ✨Nadja Heiderich✨, uma Cientista de Dados em início de carreira com um entusiasmo contagiante por tudo que envolva análise de dados. Acredito que os dados possuem o poder de transformar o mundo, e estou aqui para fazer parte dessa transformação.
 
+
 Minhas Habilidades:
 
 ⚡ Ninja do Python: Domínio da linguagem de programação Python para análise de dados e desenvolvimento de ferramentas.
@@ -10,6 +11,7 @@ Minhas Habilidades:
 
 🤔 Eterna Aprendiz: Sempre em busca de novas técnicas e ferramentas para aprimorar minhas habilidades e me manter atualizado no mundo da análise de dados.
 
+
 🌱 Meus Projetos:
 
 OilyGiant (05/2024): Criei um modelo de previsão para otimizar a localização de novos poços de petróleo, utilizando a técnica de bootstrap.
@@ -19,6 +21,7 @@ Beta Bank (04/2024): Implementei modelos de machine learning para reduzir a taxa
 Megaline (04/2024): Criei modelos de machine learning para analisar o comportamento dos clientes e recomendar planos personalizados.
 
 Zuber (03/2024): Realizei análises de dados para identificar as preferências dos passageiros.
+
 
 ⚡Ferramentas Favoritas:
 
@@ -37,6 +40,7 @@ Zuber (03/2024): Realizei análises de dados para identificar as preferências d
 [![SciPy](https://img.shields.io/badge/SciPy-scientific%20computing-green)](https://scipy.org/)
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-machine%20learning-red)](https://www.tensorflow.org/)
+
 
 😀O que me inspira:
 
