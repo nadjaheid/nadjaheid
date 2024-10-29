@@ -16,11 +16,21 @@ Zuber (03/2024): Realizei análises de dados para identificar as preferências d
 
 ⚡Ferramentas Favoritas:
 
-Python
-Jupyter Notebook
-Pandas
-Matplotlib
-Seaborn
+[![Python](https://img.shields.io/badge/python-3.x-brightgreen)](https://www.python.org/)
+
+[![SQL](https://img.shields.io/badge/SQL-Database-blue)](https://www.w3schools.com/sql/)
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow)](https://powerbi.microsoft.com/)
+
+[![pandas](https://img.shields.io/badge/pandas-data%20analysis-orange)](https://pandas.pydata.org/)
+
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-purple)](https://matplotlib.org/)
+
+[![NumPy](https://img.shields.io/badge/NumPy-scientific%20computing-lightblue)](https://numpy.org/)
+
+[![SciPy](https://img.shields.io/badge/SciPy-scientific%20computing-green)](https://scipy.org/)
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-machine%20learning-red)](https://www.tensorflow.org/)
 
 😀O que me inspira:
 
@@ -30,11 +40,9 @@ Fazer a diferença no mundo através da análise de dados.
 
 Conecte-se comigo!
 
-GitHub: [![Nadja Heiderich](https://img.shields.io/badge/GitHub-Seu%20Usuário-blue?style=flat-square)](https://github.com/nadjaheid)
-LinkedIn: [![Nadja Heiderich](https://img.shields.io/badge/LinkedIn-Seu%20Perfil-blue?style=flat-square)](www.linkedin.com/in/nadja-heiderich)
 
-[![GitHub stats](https://github-readme-stats.com/api?username=seu_usuario&show_icons=true&count_private=true)](https://github.com/nadjaheid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu_perfil-blue)](https://www.linkedin.com/in/nadja-heiderich)
+[![GitHub](https://img.shields.io/badge/GitHub-Nadja_Heiderich-blue?style=flat-square)](https://github.com/nadjaheid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadja_Heiderich-blue)](https://www.linkedin.com/in/nadja-heiderich)
 
 
 Juntos, podemos desvendar os segredos dos dados e construir um futuro melhor!🌍
