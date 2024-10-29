@@ -10,8 +10,11 @@ Minhas Habilidades:
 🌱 Meus Projetos:
 
 OilyGiant (05/2024): Criei um modelo de previsão para otimizar a localização de novos poços de petróleo, utilizando a técnica de bootstrap.
+
 Beta Bank (04/2024): Implementei modelos de machine learning para reduzir a taxa de saída de clientes.
+
 Megaline (04/2024): Criei modelos de machine learning para analisar o comportamento dos clientes e recomendar planos personalizados.
+
 Zuber (03/2024): Realizei análises de dados para identificar as preferências dos passageiros.
 
 ⚡Ferramentas Favoritas:
